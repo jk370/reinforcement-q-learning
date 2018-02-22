@@ -1,4 +1,6 @@
+
 import numpy as np
+import Environment
 
 class Agent(object):
     def __init__(self, environment, epsilon = 0.1, alpha = 0.1, gamma = 1):
