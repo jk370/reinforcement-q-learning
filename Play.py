@@ -1,3 +1,5 @@
+import Agent
+import Environment
 import matplotlib.pyplot as plt
 from IPython.display import clear_output
 %matplotlib inline
